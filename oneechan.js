@@ -1,9 +1,8 @@
 // ==UserScript==
-// @name			Dollchan Extension Tools
+// @name			Oneechan Extension Tools
 // @version			2011-01-01
-// @namespace		http://freedollchan.org/scripts
-// @author			Sthephan Shinkufag @ FreeDollChan
-// @copyright		(C)2084, Bender Bending Rodríguez
+// @namespace		https://github.com/Laurelai/oneechan-userscript
+// @author			Sthephan Shinkufag @ FreeDollChan modified by Laurelai Bailey
 // @description		Doing some profit for imageboards
 // @include			*
 // ==/UserScript==
